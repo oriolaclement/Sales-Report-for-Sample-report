@@ -1,2 +1,4 @@
 # Sales-Report-for-Sample-report
-Analysis of a sample store dataset 
+Analysis of a sample store dataset using PowerBI
+
+ 
